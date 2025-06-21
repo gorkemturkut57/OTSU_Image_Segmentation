@@ -1,4 +1,4 @@
-# Microscopic Image Segmentation - Simple Herbaceous Tissue Detection
+# Microscopic Image Segmentation
 
 This project performs a simple herbaceous tissue segmentation on a microscopic image using Otsu's thresholding method.
 
