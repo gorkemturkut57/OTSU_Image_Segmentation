@@ -1,12 +1,12 @@
 # Microscopic Image Segmentation
 
-This project performs a simple herbaceous tissue segmentation on a microscopic image using Otsu's thresholding method.
+This project performs segmentation on a microscopic image using Otsu's thresholding method.
 
 ## 📁 Project Contents
 
-- `input.png` - The original microscopic image to be segmented.
+- `image.jpg` - The original microscopic image to be segmented.
 - `output.png` - The resulting image after segmentation.
-- `segment.py` - Python script that performs image processing and segmentation.
+- `main.py` - Python script that performs image processing and segmentation.
 
 ## 🧠 Method Used
 
